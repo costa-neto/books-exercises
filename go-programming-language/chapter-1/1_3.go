@@ -1,5 +1,5 @@
 /*
-1.3 Experimente medir a diferença de tempo de execução entre nossas versões
+1.3: Experimente medir a diferença de tempo de execução entre nossas versões
 potencialmente ineficientes e a versão que usa strings.Join.
 echo2
 package main
